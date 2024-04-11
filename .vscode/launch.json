@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/application/Belajar C++",
-      "program": "c:/application/Belajar C++/build/Debug/outDebug",
+      "cwd": "c:/application/Belajar C++/32. Reference",
+      "program": "c:/application/Belajar C++/32. Reference/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
